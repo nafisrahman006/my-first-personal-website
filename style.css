@@ -32,7 +32,7 @@
 
 }
 section{
-    height: 400px;
+    height: 500px;
     padding-bottom: 100px;
 
 }
@@ -43,39 +43,44 @@ h2{
     
 
 .new-width-1{
-    width: 33%;
-    height: 80%;
-    margin left:5%;
-    padding left: 3%;
+    width: 25%;
+    height: 60%;
+    margin-left:6%;
+    padding left: 2%;
+    
+    
     float: left;
 
 }
 .new-width-2{
-    width: 33%;
-    height: 80%;
-    margin left:5%;
-    padding left: 3%;
+    width: 25%;
+    height: 60%;
+    margin-left:6%;
+    padding left: 2%;
+    
     float: left;
 
 }
 .new-width-3{
-    width: 33%;
-    height: 80%;
-    margin left:5%;
-    padding left: 3%;
+    width: 25%;
+    height: 60%;
+    margin-left: 6%;
+    padding left: 2%;
+    
+ 
     float: left;
 
 }
 .new-width-1 img{
-    width: 33%;
+    width: 60%;
     float: left;
 }
 .new-width-2 img{
-    width: 33%;
+    width: 60%;
     float: left;
 }
 .new-width-3 img{
-    width: 33%;
+    width: 60%;
     float: left;
 }
 
@@ -95,4 +100,10 @@ h2{
 }
 #gg{
     margin-right: 0;
+}
+.single-experiance{
+    box-shadow: 10px 10px 40px gray;
+}
+footer p{
+    text-align: center;
 }
